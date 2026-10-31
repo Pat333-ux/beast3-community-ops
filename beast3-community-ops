@@ -1,0 +1,25 @@
+beast3-community-ops/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── docs/
+│   ├── onboarding-guide.md
+│   ├── community-standards.md
+│   └── support-protocols.md
+│
+├── src/
+│   ├── core/
+│   │   ├── MemberDirectory.ts
+│   │   └── SupportTicketManager.ts
+│   │
+│   ├── api/
+│   │   └── community.ts
+│   │
+│   └── app/
+│       ├── layout.tsx
+│       └── page.tsx
+│
+└── public/
+    └── logo.png
